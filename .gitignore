@@ -1,5 +1,8 @@
 *.class
-
+*.jar
+*~
+target/*
+yammerCredentials.properties
 # Package Files #
 *.jar
 *.war
